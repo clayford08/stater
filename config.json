@@ -4,7 +4,6 @@
 		"name":"bytecoin",
 		"git":"https://github.com/amjuarez/bytecoin.git"
 	},
-{
 	"core":{
 		"CRYPTONOTE_NAME":"statercoin",
 		"daemon_name":"statercoind",
